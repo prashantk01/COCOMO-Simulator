@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">COCOMO-II</string>
+
+    <string name="title_Organic">Organic</string>
+    <string name="title_Embedded">Embedded </string>
+    <string name="title_detached">Semi-Detached</string>
+    <string name="function_points">Function Point</string>
+    <string name="simulator">SELECT INPUT TYPE</string>
+    <string name="kloc">LINES OF CODE</string>
+    <string name="movable_text">CONSTRUCTIVE COST MODEL - II</string>
+    <string name="cocomo">COCOMO</string>
+    <string name="RSR">Required Software Reliability</string>
+    <string name="SOAD">Size of Application Database</string>
+    <string name="COP">Complexity of The Product   </string>
+    <string name="RPC">Runtime Performance Constraints</string>
+    <string name="MC"> Memory  Constraints           </string>
+    <string name="VOVME">Volatility ofthe virtual Machine</string>
+    <string name="RTT">Required turnabout time	    </string>
+    <string name="ACAP"> Analyst  capability          </string>
+    <string name="AEXP">Applications experience     </string>
+    <string name="SEC">Software engineer capability </string>
+    <string name="VMEXP">Virtual machine experience </string>
+    <string name="PLEXP">Programming language experience</string>
+    <string name="ASEM">Application of engineering methods</string>
+    <string name="USTL">Use of software tools       </string>
+    <string name="RDS">Required development schedule</string>
+    <string name="cs_nominal">NOMINAL</string>
+    <string name="cs_verylow">VERY LOW</string>
+    <string name="cs_low">LOW</string>
+    <string name="cs_high">HIGH</string>
+    <string name="cs_veryhigh">VERY HIGH</string>
+    <string name="cs_simple">SIMPLE</string>
+    <string name="cs_average">AVERAGE</string>
+    <string name="cs_complex">COMPLEX</string>
+    <string name="python">PYTHON</string>
+    <string name="java">JAVA</string>
+    <string name="cplus">C++</string>
+
+</resources>

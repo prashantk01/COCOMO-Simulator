@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/organic"
+        android:icon="@drawable/ic_home_black_24dp"
+        android:title="@string/title_Organic" />
+    <item
+        android:id="@+id/semidetached"
+        android:icon="@drawable/ic_dashboard_black_24dp"
+        android:title="@string/title_detached" />
+
+    <item
+        android:id="@+id/Embedded"
+        android:icon="@drawable/ic_notifications_black_24dp"
+        android:title="@string/title_Embedded" />
+
+</menu>
